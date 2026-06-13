@@ -65,7 +65,7 @@ The dataset contains:
 2. Data cleaning and preprocessing  
 3. Perform EDA  
 4. Analyze customer behavior
+5. Generate insights  
+6. Provide business recommendations  
 
 ---
-6. Generate insights  
-7. Provide business recommendations  
